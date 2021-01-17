@@ -4,7 +4,7 @@
 ![1](https://user-images.githubusercontent.com/33539593/104851941-077ad400-5909-11eb-8a57-f86a37bb2db1.PNG)
 # Ana Sayfa
 ![2](https://user-images.githubusercontent.com/33539593/104851942-08ac0100-5909-11eb-8040-31051c943176.PNG)
-#
+# Öğrenci Kaydı
 ![3](https://user-images.githubusercontent.com/33539593/104851943-08ac0100-5909-11eb-91cd-cf6203d9505f.PNG)
 #
 ![4](https://user-images.githubusercontent.com/33539593/104851944-09449780-5909-11eb-8460-0107b4a2ccd3.PNG)
