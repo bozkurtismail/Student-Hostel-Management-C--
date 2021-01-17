@@ -6,7 +6,7 @@
 ![2](https://user-images.githubusercontent.com/33539593/104851942-08ac0100-5909-11eb-8040-31051c943176.PNG)
 # Öğrenci Kaydı
 ![3](https://user-images.githubusercontent.com/33539593/104851943-08ac0100-5909-11eb-91cd-cf6203d9505f.PNG)
-#
+# Bölümler
 ![4](https://user-images.githubusercontent.com/33539593/104851944-09449780-5909-11eb-8460-0107b4a2ccd3.PNG)
 #
 ![5](https://user-images.githubusercontent.com/33539593/104851945-09449780-5909-11eb-890b-830857335d67.PNG)
