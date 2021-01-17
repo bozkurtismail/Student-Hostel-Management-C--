@@ -1,2 +1,15 @@
 # Student-Hostel-Management-C#
 # Preview
+![2](https://user-images.githubusercontent.com/33539593/104851531-9803e500-5906-11eb-8842-14136dfa8a6a.JPG)
+![3](https://user-images.githubusercontent.com/33539593/104851534-99351200-5906-11eb-9cee-f53a4c9d16ac.JPG)
+![4](https://user-images.githubusercontent.com/33539593/104851535-99cda880-5906-11eb-87e6-80d2d2c33c09.JPG)
+![5](https://user-images.githubusercontent.com/33539593/104851536-99cda880-5906-11eb-9866-19d96a92b3c7.JPG)
+![6](https://user-images.githubusercontent.com/33539593/104851537-9a663f00-5906-11eb-89c1-df7ebe0067e4.JPG)
+![8](https://user-images.githubusercontent.com/33539593/104851538-9afed580-5906-11eb-9915-476b8dfb22e2.JPG)
+![9](https://user-images.githubusercontent.com/33539593/104851540-9b976c00-5906-11eb-8fd6-f85f1e8ad5f9.JPG)
+![10](https://user-images.githubusercontent.com/33539593/104851541-9b976c00-5906-11eb-9eb3-83b15fdfc24f.JPG)
+![11](https://user-images.githubusercontent.com/33539593/104851553-ab16b500-5906-11eb-886c-7a51e568da61.JPG)
+![12](https://user-images.githubusercontent.com/33539593/104851554-ac47e200-5906-11eb-8f3f-f1eea6417e81.JPG)
+![13](https://user-images.githubusercontent.com/33539593/104851555-ace07880-5906-11eb-9c7e-abe428c9c5a0.JPG)
+![14](https://user-images.githubusercontent.com/33539593/104851556-ad790f00-5906-11eb-8e06-f01b7d9f8256.JPG)
+![15](https://user-images.githubusercontent.com/33539593/104851557-ae11a580-5906-11eb-8d28-f51fbf1ab888.JPG)
