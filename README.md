@@ -1,33 +1,32 @@
 # Student-Hostel-Management-C#
 # Preview
-
-![1](https://user-images.githubusercontent.com/33539593/104851643-59225f00-5907-11eb-82af-d1923aa282e4.JPG)
+![1](https://user-images.githubusercontent.com/33539593/104851941-077ad400-5909-11eb-8a57-f86a37bb2db1.PNG)
 #
-![2](https://user-images.githubusercontent.com/33539593/104851644-59baf580-5907-11eb-9cb9-801e8922f258.JPG)
+![2](https://user-images.githubusercontent.com/33539593/104851942-08ac0100-5909-11eb-8040-31051c943176.PNG)
 #
-![3](https://user-images.githubusercontent.com/33539593/104851645-5a538c00-5907-11eb-9844-f7fb0baf9a94.JPG)
+![3](https://user-images.githubusercontent.com/33539593/104851943-08ac0100-5909-11eb-91cd-cf6203d9505f.PNG)
 #
-![4](https://user-images.githubusercontent.com/33539593/104851646-5a538c00-5907-11eb-9190-5c997de33c8d.JPG)
+![4](https://user-images.githubusercontent.com/33539593/104851944-09449780-5909-11eb-8460-0107b4a2ccd3.PNG)
 #
-![5](https://user-images.githubusercontent.com/33539593/104851647-5aec2280-5907-11eb-8120-29273f046477.JPG)
+![5](https://user-images.githubusercontent.com/33539593/104851945-09449780-5909-11eb-890b-830857335d67.PNG)
 #
-![6](https://user-images.githubusercontent.com/33539593/104851648-5aec2280-5907-11eb-81ac-041d840c9dc2.JPG)
+![6](https://user-images.githubusercontent.com/33539593/104851946-09dd2e00-5909-11eb-9a53-6773832555a8.PNG)
 #
-![8](https://user-images.githubusercontent.com/33539593/104851649-5b84b900-5907-11eb-82af-68dd8a4d19e5.JPG)
+![7](https://user-images.githubusercontent.com/33539593/104851947-09dd2e00-5909-11eb-870b-0db754b08ee5.PNG)
 #
-![9](https://user-images.githubusercontent.com/33539593/104851650-5b84b900-5907-11eb-8f4f-6b15a7b5e997.JPG)
+![8](https://user-images.githubusercontent.com/33539593/104851948-0a75c480-5909-11eb-9b74-76a078e46a58.PNG)
 #
-![10](https://user-images.githubusercontent.com/33539593/104851652-5c1d4f80-5907-11eb-991a-aad0f5a02c27.JPG)
+![9](https://user-images.githubusercontent.com/33539593/104851949-0b0e5b00-5909-11eb-899c-a5888f181c1c.PNG)
 #
-![11](https://user-images.githubusercontent.com/33539593/104851653-5c1d4f80-5907-11eb-8501-5c5d1bbb1695.JPG)
+![10](https://user-images.githubusercontent.com/33539593/104851950-0b0e5b00-5909-11eb-9151-49545c63ec30.PNG)
 #
-![12](https://user-images.githubusercontent.com/33539593/104851654-5cb5e600-5907-11eb-8648-693af2b8e5b8.JPG)
+![11](https://user-images.githubusercontent.com/33539593/104851951-0ba6f180-5909-11eb-94de-d84ccd3ed097.PNG)
 #
-![13](https://user-images.githubusercontent.com/33539593/104851655-5cb5e600-5907-11eb-8b9a-67c51908e4e5.JPG)
+![12](https://user-images.githubusercontent.com/33539593/104851952-0ba6f180-5909-11eb-9da2-516f201ac5de.PNG)
 #
-![14](https://user-images.githubusercontent.com/33539593/104851656-5cb5e600-5907-11eb-993a-6cdb6b6fafed.JPG)
+![13](https://user-images.githubusercontent.com/33539593/104851954-0ba6f180-5909-11eb-8598-8d2b6dc50657.PNG)
 #
-![15](https://user-images.githubusercontent.com/33539593/104851657-5d4e7c80-5907-11eb-8ac8-cee56749860c.JPG)
+![14](https://user-images.githubusercontent.com/33539593/104851956-0c3f8800-5909-11eb-94ae-a2c34bd5b04f.PNG)
 
 
 
